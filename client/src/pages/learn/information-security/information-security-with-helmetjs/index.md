@@ -1,7 +1,7 @@
 ---
 title: Introduction to Information Security with HelmetJS Challenges
 block: Information Security with HelmetJS
-superBlock: Information Security and Quality Assurance
+superBlock: Information Security
 ---
 ## Introduction to Information Security with HelmetJS Challenges
 
