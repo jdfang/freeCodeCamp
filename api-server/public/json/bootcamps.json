@@ -19,6 +19,15 @@
     "online"
   ]
 }, {
+  "name": "Hack Reactor Online",
+  "cost": "17780",
+  "housing": "0",
+  "weeks": "12",
+  "finance": true,
+  "cities": [
+    "online"
+  ]
+}, {
   "name": "Hackbright Academy",
   "cost": "15000",
   "housing": "500",
