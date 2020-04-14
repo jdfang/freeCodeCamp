@@ -233,16 +233,8 @@ class DonateForm extends Component {
 
   render() {
     const { donationAmount, donationDuration } = this.state;
-    const { handleProcessing, isSignedIn } = this.props;
-    const {
-      donationState: { processing, success, error }
-    } = this.state;
-    const subscriptionPayment = donationDuration !== 'onetime';
-    if (processing || success || error) {
-      return this.renderCompletion({
-        processing,
-        success,
-        error,
+  
+       error,
         reset: this.resetDonation
       });
     }
